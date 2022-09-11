@@ -15,3 +15,4 @@
 `shortcuts` cd Shortcuts
 `scripts` cd Scripts
 `dotfiles` cd DotFiles
+`vm` virt-manager
