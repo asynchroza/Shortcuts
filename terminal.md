@@ -18,3 +18,4 @@
 `scripts` cd Scripts
 `dotfiles` cd DotFiles
 `vm` virt-manager
+`books` books
