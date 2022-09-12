@@ -1,7 +1,9 @@
+#GNOME-TERMINAL
 `ALT + R` new tab
 `ALT + T` new window
 `ALT + W` close window
 `ALT + Q` close terminal
+
 #ALIASES
 `zshrc` nvim ~/.zshrc
 `xsh` execute shell
