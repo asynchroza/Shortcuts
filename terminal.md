@@ -19,3 +19,12 @@
 `dotfiles` cd DotFiles
 `vm` virt-manager
 `books` books
+
+#MOVEMENT
+`CTRL + A` go to start
+`CTRL + E` go to end
+`CTRL + U` delete whole line
+`CTRL + K` delete forward
+`CTRL + L` clear
+`CTRL + W` delete word 
+`ALT + BS` delete word
